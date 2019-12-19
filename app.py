@@ -1,0 +1,2 @@
+def suma(self):
+    pass
